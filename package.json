@@ -1,0 +1,22 @@
+{
+  "name": "test-puppeteer",
+  "version": "1.0.0",
+  "description": "little test for apply a new job",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richy-Clic/test-puppeteer.git"
+  },
+  "author": "Ricardo David De anda Leal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richy-Clic/test-puppeteer/issues"
+  },
+  "homepage": "https://github.com/Richy-Clic/test-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
