@@ -1,2 +1,2 @@
 # test-puppeteer
-Little test to apply a new job
+Little test to apply a new job.
